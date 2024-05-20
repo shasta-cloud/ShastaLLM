@@ -1,6 +1,11 @@
-# Local RAG with Ollama & PgVector
+# Shasta helper based on phidata + tools + pandasai
 
-This cookbook shows how to do fully local retrieval-augmented generation (RAG) with Ollama & PgVector.
+This is a streamlit based Assistant which includes sevral function calling for tools (analyze_neighbors with pandasai - ususally doesn't work, get_neighbors_df, get_number_of_neighbors, get_online_devices).
+
+This allows you to choose an LLM model, as well as an embedding model to use for the files you can upload.
+
+There is a
+
 
 > Note: Fork and clone this repository if needed
 
@@ -20,7 +25,7 @@ Pull the Embeddings model:
 ollama pull nomic-embed-text
 ```
 
-### 2. Create a virtual environment
+### 2. Create a virtual environment (optional)
 
 ```shell
 python3 -m venv ~/.venvs/aienv
@@ -30,20 +35,15 @@ source ~/.venvs/aienv/bin/activate
 ### 3. Install libraries
 
 ```shell
-pip install -r cookbook/llms/ollama/rag/requirements.txt
+pip install -r Assistant/requirements.txt
 ```
 
 ### 4. Run PgVector
 
 > Install [docker desktop](https://docs.docker.com/desktop/install/mac-install/) first.
 
-- Run using a helper script
 
-```shell
-./cookbook/run_pgvector.sh
-```
-
-- OR run using the docker run command
+- run using the docker run command
 
 ```shell
 docker run -d \
@@ -60,7 +60,7 @@ docker run -d \
 ### 5. Run RAG App
 
 ```shell
-streamlit run cookbook/llms/ollama/rag/app.py
+streamlit run app.py
 ```
 
 - Open [localhost:8501](http://localhost:8501) to view your local RAG app.
@@ -71,6 +71,3 @@ streamlit run cookbook/llms/ollama/rag/app.py
   - https://techcrunch.com/2024/04/18/meta-releases-llama-3-claims-its-among-the-best-open-models-available/?guccounter=1
   - https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model
 
-### 6. Message on [discord](https://discord.gg/4MtYHHrgA8) if you have any questions
-
-### 7. Star ⭐️ the project if you like it.
