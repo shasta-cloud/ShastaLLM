@@ -1,0 +1,124 @@
+mac,name,org,venue,model,firmware,band,on-chan,channel,noise_floor,active_ms,busy_ms,busy_self_ms,busy_tx_ms,last_on_chan_secs_go,rrm_airtime_pct,agg_15m_active_ms,agg_15m_busy_ms,agg_15m_busy_self_ms,agg_15m_busy_tx_ms,agg_15m_num_samples
+04b6be139908,AlanAP1-Garage,SNA Labs,Alan's Home Office,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,60,-109,12542,35,0,31,-1,0,12405.5,36.1039,0.000385,31.3284,180
+04b6be139908,AlanAP1-Garage,SNA Labs,Alan's Home Office,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-106,15000,931,0,41,-1,5,15092.4,937.295,0.19748,41.0036,180
+04b6be139908,AlanAP1-Garage,SNA Labs,Alan's Home Office,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-105,17,2,0,0,-1,16.9308,17.0754,1.64548,0,0,180
+04b6be139bc8,SD Lab WF-196 AP,Single Digits Labs,SDLab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,False,36,-110,15,2,0,0,-1,15.4754,15.4655,2.00378,0,0,180
+04b6be139bc8,SD Lab WF-196 AP,Single Digits Labs,SDLab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,44,-109,12072,1541,0,57,-1,7.99989,12341.2,1378.51,0.636827,56.6261,180
+04b6be139bc8,SD Lab WF-196 AP,Single Digits Labs,SDLab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-110,16,2,0,0,-1,13.3588,15.6866,1.72801,0,0,180
+04b6be139bc8,SD Lab WF-196 AP,Single Digits Labs,SDLab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,False,157,-108,12,2,0,0,-1,18.0743,14.9206,2.679,0,0,180
+04b6be139bc8,SD Lab WF-196 AP,Single Digits Labs,SDLab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-104,12236,5932,3,381,-1,43.8926,12091.8,5611.22,4.0977,372.887,180
+04b6be139bc8,SD Lab WF-196 AP,Single Digits Labs,SDLab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-101,17,9,0,0,-1,54.2867,16.9882,9.27184,0,0,180
+04b6be139bc8,SD Lab WF-196 AP,Single Digits Labs,SDLab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-102,18,9,0,0,-1,52.0036,16.677,7.76184,0,0,180
+04b6be139e08,Basement,RohdeCorp Labs,Home,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,100,-108,12485,906,151,471,-1,2,12406.4,593.11,76.7851,228.685,180
+04b6be139e08,Basement,RohdeCorp Labs,Home,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-94,16,10,0,0,-1,63.1686,17.0877,7.19015,0,0,180
+04b6be139e08,Basement,RohdeCorp Labs,Home,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-106,14994,2149,0,20,-1,18.0001,15064.4,2306.85,0.092418,23.357,180
+04b6be139e08,Basement,RohdeCorp Labs,Home,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-105,16,4,0,0,-1,37.527,17.4655,5.80198,0,0,180
+04b6be13a028,LabWF196,Tims Lab,Tim C Lab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,116,-110,12501,269,0,48,-1,3,12408,262.503,0.026883,47.8404,180
+04b6be13a028,LabWF196,Tims Lab,Tim C Lab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-103,17,5,0,0,-1,32.541,17.2409,5.82224,0,0,180
+04b6be13a028,LabWF196,Tims Lab,Tim C Lab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-101,17,3,0,0,-1,22.9311,17.1432,5.1012,0,0,180
+04b6be13a028,LabWF196,Tims Lab,Tim C Lab,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-101,14995,3023,1,354,-1,25,15026.3,3241.48,0.930287,343.24,180
+14448f1fbe26,LabEAP102,Tims Lab,Tim C Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,36,-107,14,4,0,0,-1,31.8236,15.5467,5.3466,0,0,180
+14448f1fbe26,LabEAP102,Tims Lab,Tim C Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,44,-106,16,3,0,0,-1,22.0124,15.8743,4.01771,0,0,180
+14448f1fbe26,LabEAP102,Tims Lab,Tim C Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,True,149,-105,7064,168,0,25,-1,2,7079.12,171.893,0.013671,25.1552,180
+14448f1fbe26,LabEAP102,Tims Lab,Tim C Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,157,-105,15,4,0,0,-1,25.356,15.7769,4.04946,0,0,180
+14448f1fbe26,LabEAP102,Tims Lab,Tim C Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-103,7014,970,0,27,-1,14,7078.99,974.04,0.065275,29.4329,180
+14448f1fbe26,LabEAP102,Tims Lab,Tim C Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-103,15,1,0,0,-1,10.8802,17.4876,1.42066,0,0,180
+14448f1fbe26,LabEAP102,Tims Lab,Tim C Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-102,16,1,0,0,-1,15.4653,17.0808,2.37094,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-107,7046,139,0,25,-1,2,7152.69,120.608,0.008047,25.5808,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,44,-106,13,2,0,0,-1,19.0987,15.4115,2.22296,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,52,-106,14,6,0,0,-1,45.8485,15.5816,7.18127,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,60,-107,13,2,0,0,-1,24.9986,15.4858,4.09479,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,100,-106,12,5,0,0,-1,43.2703,14.4673,6.51251,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,108,-106,15,7,0,0,-1,37.423,14.9089,5.43829,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,116,-106,18,5,0,0,-1,27.5813,15.6988,4.12875,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,124,-103,17,2,0,0,-1,,15.6846,2.26815,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-105,13,4,0,0,-1,36.423,15.0385,5.94919,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,157,-106,14,3,0,0,-1,22.7172,15.3632,3.70738,0,0,180
+14448f1fbece,Ceiling AP,Allbridge Labs,Koch's Lab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-103,7036,705,0,148,-1,10.1678,7106.81,715.709,0.238476,148.977,180
+14448f1fc002,EAP102,FiberNet Captial Labs,FNC Labs 1,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-108,7001,362,0,67,-1,5,7045.83,370.285,0.018982,67.9788,180
+14448f1fc002,EAP102,FiberNet Captial Labs,FNC Labs 1,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,44,-107,14,4,0,0,-1,29.4646,15.1104,5.62533,0,0,180
+14448f1fc002,EAP102,FiberNet Captial Labs,FNC Labs 1,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-105,14,4,0,0,-1,32.0781,15.17,4.6489,0,0,180
+14448f1fc002,EAP102,FiberNet Captial Labs,FNC Labs 1,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,157,-106,16,5,0,0,-1,30.7511,15.8245,4.94937,0,0,180
+14448f1fc002,EAP102,FiberNet Captial Labs,FNC Labs 1,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-103,16,2,0,0,-1,20.2933,17.2722,3.13592,0,0.0002,180
+14448f1fc002,EAP102,FiberNet Captial Labs,FNC Labs 1,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-103,17,1,0,0,-1,11.8444,17.4987,1.34485,1e-06,0.00025,180
+14448f1fc002,EAP102,FiberNet Captial Labs,FNC Labs 1,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-105,7232,1395,0,402,-1,19,7082.66,1390.43,1.19443,402.685,180
+903cb32d2e37,EAP101-conf4,DevRev,DevRev HQ,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-96,16,3,0,0,-1,26.9234,17.7412,3.80361,0,0,180
+903cb32d2e37,EAP101-conf4,DevRev,DevRev HQ,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-97,17,5,0,0,-1,40.4487,17.0364,5.29888,0,0,180
+903cb32d2e37,EAP101-conf4,DevRev,DevRev HQ,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-98,6002,1199,0,13,-1,21,6030.84,1252.04,1.72137,48.0224,180
+903cb32d303f,ElauwitEAP101,Elauwit Connection Labs,Elauwit Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-101,7279,125,0,32,-1,1,7070.81,119.597,0.098817,31.455,180
+903cb32d303f,ElauwitEAP101,Elauwit Connection Labs,Elauwit Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,False,44,-101,26,1,0,0,-1,5.43807,27.4575,0.732756,0,0,180
+903cb32d303f,ElauwitEAP101,Elauwit Connection Labs,Elauwit Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-100,27,14,0,0,-1,53.8584,27.3177,17.2664,0,0,180
+903cb32d303f,ElauwitEAP101,Elauwit Connection Labs,Elauwit Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,False,157,-101,27,6,0,0,-1,22.0037,27.133,5.20116,0,0,180
+903cb32d303f,ElauwitEAP101,Elauwit Connection Labs,Elauwit Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-94,27,6,0,0,-1,23.2834,27.1359,5.64084,0,0,180
+903cb32d303f,ElauwitEAP101,Elauwit Connection Labs,Elauwit Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-97,26,8,0,0,-1,30.9908,27.4118,9.8606,0,0,180
+903cb32d303f,ElauwitEAP101,Elauwit Connection Labs,Elauwit Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-97,6998,1358,0,25,-1,18,7054.49,1299.09,0.12718,24.6642,180
+903cb32d30ee,LabEAP101B,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,False,36,-105,16,3,0,0,-1,24.1579,17.3399,4.47013,0,0,180
+903cb32d30ee,LabEAP101B,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,True,44,-106,7000,384,0,33,-1,3,7030.14,393.342,0.040191,32.0487,180
+903cb32d30ee,LabEAP101B,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-98,18,2,0,0,-1,15.8842,78.1057,13.6773,0.001146,0.211872,180
+903cb32d30ee,LabEAP101B,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-100,7001,784,0,23,-1,11,7004.56,757.739,0.039647,22.9009,180
+903cb32d30ee,LabEAP101B,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-100,17,1,0,0,-1,19.1363,17.66,3.77085,0,0,180
+903cb32d351c,LabEAP101A,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,False,36,-105,17,5,0,0,-1,29.2735,17.4169,4.89999,0,0,180
+903cb32d351c,LabEAP101A,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-101,16,1,0,0,-1,22.301,17.7034,2.51525,0,0,180
+903cb32d351c,LabEAP101A,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,True,157,-104,7026,276,0,45,-1,3,7051.37,278.712,1.65544,51.0576,180
+903cb32d351c,LabEAP101A,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-97,18,7,0,0,-1,39.7225,17.6083,5.83229,0,0,180
+903cb32d351c,LabEAP101A,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-101,7140,812,0,23,-1,10,7000.51,767.192,0.056716,23.0007,180
+903cb32d351c,LabEAP101A,Tims Lab,Tim C Lab,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-101,18,6,0,0,-1,32.5608,89.2713,24.243,0.000393,0.238295,180
+903cb3529ee4,EAP101-leads-room,DevRev,DevRev HQ,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-97,17,3,0,0,-1,21.9508,17.1492,5.46255,0,0,180
+903cb3529ee4,EAP101-leads-room,DevRev,DevRev HQ,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-99,16,5,0,0,-1,39.1076,584.679,197.633,0.018238,1.40747,180
+903cb3529ee4,EAP101-leads-room,DevRev,DevRev HQ,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-98,5998,1251,0,16,-1,23.1425,5463.48,1201.85,0.220256,16.0246,180
+903cb3b16de8,Binny AP,Team Truminds,Binny Home,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 22,5g,False,36,-101,16,1,0,0,-1,17.9113,18.032,2.11644,0,0,180
+903cb3b16de8,Binny AP,Team Truminds,Binny Home,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 22,5g,False,44,-103,15,0,0,0,-1,5.8551,16.5519,0.117589,0,0,180
+903cb3b16de8,Binny AP,Team Truminds,Binny Home,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 22,5g,False,149,-100,21,0,0,0,-1,14.6617,17.7212,1.33774,0,0,180
+903cb3b16de8,Binny AP,Team Truminds,Binny Home,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 22,5g,True,157,-101,6997,215,7,199,-1,4,7015.19,258.041,8.84992,240.915,180
+903cb3b16de8,Binny AP,Team Truminds,Binny Home,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 22,2g,False,1,-94,16,6,0,0,-1,38.351,17.2652,6.05122,0,0,180
+903cb3b16de8,Binny AP,Team Truminds,Binny Home,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 22,2g,True,6,-93,7126,2295,0,398,-1,19,7061.67,1691.46,0.456169,398.943,180
+903cb3b16de8,Binny AP,Team Truminds,Binny Home,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 22,2g,False,11,-95,17,5,0,0,-1,31.0535,17.2382,6.06766,0,0,180
+cccf83eabd48,LabWF186W,Tims Lab,Tim C Lab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-104,8,1,0,0,-1,25.578,8.29912,1.91537,0,0,180
+cccf83eabd48,LabWF186W,Tims Lab,Tim C Lab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-104,7267,1209,0,152,-1,15,7153.32,1200.38,0.495677,149.913,180
+cccf83eabd48,LabWF186W,Tims Lab,Tim C Lab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,5g,True,52,-108,7164,66,0,26,-1,0,7129.27,68.4534,0.017273,25.9696,180
+cccf83eabdd8,TestWF186W,Single Digits Labs,SDLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-93,7,2,0,0,-1,43.7245,39.9314,19.4135,0.009109,0.93653,180
+cccf83eabdd8,TestWF186W,Single Digits Labs,SDLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-95,8,3,0,0,-1,58.454,460.234,227.854,0.113636,12.6153,180
+cccf83eabdd8,TestWF186W,Single Digits Labs,SDLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-101,7022,2868,3,206,-1,38,6679.92,2559.85,2.8502,193.619,180
+cccf83eabdd8,TestWF186W,Single Digits Labs,SDLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,5g,True,116,-106,7179,233,0,31,-1,2,7143.62,211.501,0.264029,30.7379,180
+cccf83eac030,LabWF186H,Tims Lab,Tim C Lab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-104,9,1,0,0,-1,32.059,8.48526,1.36165,0,0,180
+cccf83eac030,LabWF186H,Tims Lab,Tim C Lab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-101,7022,1047,0,144,-1,17,7141.56,1145.77,0.441313,145.461,180
+cccf83eac030,LabWF186H,Tims Lab,Tim C Lab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,5g,True,52,-107,7154,62,0,26,-1,0,7132.61,63.3936,0.014297,25.9847,180
+d4babaa13b20,StargentWF196,Stargent Labs,Stargent Demo,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,False,36,-110,16,1,0,0,-1,11.2291,15.5627,1.44563,0,0,180
+d4babaa13b20,StargentWF196,Stargent Labs,Stargent Demo,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,False,44,-110,16,1,0,0,-1,14.0328,15.0792,0.744677,0,0,180
+d4babaa13b20,StargentWF196,Stargent Labs,Stargent Demo,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-109,13,1,0,0,-1,15.1237,15.2007,2.47278,0,0,180
+d4babaa13b20,StargentWF196,Stargent Labs,Stargent Demo,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,157,-109,12552,228,0,57,-1,1,12372.4,304.987,0.298678,56.0046,180
+d4babaa13b20,StargentWF196,Stargent Labs,Stargent Demo,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-104,11896,2664,1,273,-1,19,12035,2459.02,1.86093,265.174,180
+d4babaa13b20,StargentWF196,Stargent Labs,Stargent Demo,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-94,16,6,0,0,-1,38.0472,17.253,7.83782,0,0,180
+d4babaa13b20,StargentWF196,Stargent Labs,Stargent Demo,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-103,16,8,0,0,-1,47.9031,17.0856,7.71484,0,0,180
+d4babaa13b60,AlanAP2-Office,SNA Labs,Alan's Home Office,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,116,-110,12561,58,0,48,-1,0,12406.9,62.1838,2.38025,49.5128,180
+d4babaa13b60,AlanAP2-Office,SNA Labs,Alan's Home Office,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-104,14994,2220,0,37,-1,14,15009,2224.71,0.070148,39.3871,180
+d4babaa13b60,AlanAP2-Office,SNA Labs,Alan's Home Office,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-104,17,1,0,0,-1,15.4125,17.3839,1.14854,0,0,180
+d4babaa15220,Bonus Room,RohdeCorp Labs,Home,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,60,-108,126458,555,0,136,-1,0,126458,555.667,0.166667,136.167,7
+d4babaa152c0,WF196-desk4,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-100,17,6,0,0,-1,42.3201,16.6711,8.7667,0,0,180
+d4babaa152c0,WF196-desk4,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-109,9994,1170,0,35,-1,22,10015.1,1510.79,0.394596,33.3119,180
+d4babaa152c0,WF196-desk4,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-104,17,6,0,0,-1,40.1027,16.7415,6.81119,0,0,180
+d4babaa153a0,WF196-conf1,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-105,16,6,0,0,-1,42.892,16.7023,7.00442,0,0,180
+d4babaa153a0,WF196-conf1,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-104,16,4,0,0,-1,28.3328,16.5555,5.41177,0,0,180
+d4babaa153a0,WF196-conf1,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-104,10004,1595,2,182,-1,17,10025.5,1167.45,3.48773,103.488,180
+d4babaa15460,WF196-desk8,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-104,18,10,0,0,-1,55.0242,17.1009,8.65609,0,0,180
+d4babaa15460,WF196-desk8,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-106,9997,991,0,30,-1,12,10010.6,1193.15,0.564787,45.535,180
+d4babaa15460,WF196-desk8,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-102,16,6,0,0,-1,32.4044,16.6507,6.0273,0,0,180
+d4babaa15600,WF196-conf2,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-106,17,10,0,0,-1,58.0242,17.0566,9.25248,0,0,180
+d4babaa15600,WF196-conf2,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-107,10020,949,0,35,-1,12,10036.5,1047.58,0.291628,34.187,180
+d4babaa15600,WF196-conf2,DevRev,DevRev HQ,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-102,17,7,0,0,-1,38.2621,16.6624,7.47984,0,0,180
+d4babaa175b0,Rob's Office,RohdeCorp Labs,Home,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-101,8,1,0,0,-1,31.942,8.16766,1.9942,0,0,174
+d4babaa175b0,Rob's Office,RohdeCorp Labs,Home,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-99,7099,1089,0,7,-1,13,7136.1,994.498,0.017442,7.58726,173
+d4babaa175b0,Rob's Office,RohdeCorp Labs,Home,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-103,8,2,0,0,-1,54.4817,8.49133,2.36417,0,0,174
+d4babaa175b0,Rob's Office,RohdeCorp Labs,Home,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,5g,True,52,-106,7127,19,0,7,-1,0,7126.84,19.0927,0.017442,7.52909,173
+e001a63fb6ed,Wallplate,Allbridge Labs,Koch's Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,5g,True,124,-106,118445,430,0,428,-1,0,118464,431.921,0.010927,429.527,180
+e001a63fb8e5,CedHomeLab-EAP104,Intello Labs,Charles Home Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.1 build 22,2g,False,1,-98,10,1,0,0,-1,15.7143,9.75277,1.36865,0,0,180
+e001a63fb8e5,CedHomeLab-EAP104,Intello Labs,Charles Home Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.1 build 22,2g,False,6,-98,9,1,0,0,-1,28.3485,9.70236,1.53583,0,0,180
+e001a63fb8e5,CedHomeLab-EAP104,Intello Labs,Charles Home Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.1 build 22,2g,True,11,-99,7199,1147,1,270,-1,13,7108.57,1154.46,2.14612,266.284,180
+e001a63fb8e5,CedHomeLab-EAP104,Intello Labs,Charles Home Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.1 build 22,5g,False,36,-107,12,0,0,0,-1,10.1154,12.6877,0.643606,0,0,180
+e001a63fb8e5,CedHomeLab-EAP104,Intello Labs,Charles Home Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.1 build 22,5g,False,44,-107,12,0,0,0,-1,8.25737,12.6872,0.472013,0,0,180
+e001a63fb8e5,CedHomeLab-EAP104,Intello Labs,Charles Home Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.1 build 22,5g,False,149,-104,12,2,0,0,-1,17.4628,12.7361,2.23633,0,0,180
+e001a63fb8e5,CedHomeLab-EAP104,Intello Labs,Charles Home Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.1 build 22,5g,True,157,-105,7058,459,0,59,-1,5,7113.49,453.969,0.198664,59.867,180
+e49d731c08e6,Bedroom,RohdeCorp Labs,Home,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-98,7167,765,0,7,-1,12,7182.64,804.008,0.067843,7.63407,180
+e49d731c08e6,Bedroom,RohdeCorp Labs,Home,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-99,8,1,0,0,-1,36.9882,7.82586,1.78595,0,0,180
+e49d731c08e6,Bedroom,RohdeCorp Labs,Home,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,5g,True,100,-103,7100,543,0,7,-1,5,7124.79,581.622,0.016729,7.4863,180
+e49d731c0b6a,EAP104NEW,Elauwit Connection Labs,Elauwit Lab,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,5g,False,36,-101,20,1,0,0,-1,1,20.5882,1.35417,0,0,180

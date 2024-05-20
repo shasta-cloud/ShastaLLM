@@ -1,0 +1,19 @@
+{
+    "_comment": "!!! Copy this to config/PRIV-creds.json and fill in your details.  DO NOT COMMIT INTO GIT !!!",
+    "DEV": {
+        "userId": "<user>@shasta.cloud",
+        "password": "<password>"
+    },
+    "DF": {
+        "userId": "<user>@shasta.cloud",
+        "password": "<password>"
+    },
+    "STG": {
+        "userId": "<user>@shasta.cloud",
+        "password": "<password>"
+    },
+    "PROD": {
+        "userId": "<user>@shasta.cloud",
+        "password": "<password>"
+    }
+}

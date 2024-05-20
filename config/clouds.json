@@ -1,0 +1,59 @@
+{
+    "DF": {
+        "owsec": {
+            "host": "sec.dev01.apps.shastacloud.com",
+            "port": 16001
+        },
+        "owgw": {
+            "host": "gw.dev01.apps.shastacloud.com",
+            "port": 16002
+        },
+        "owprov": {
+            "host": "prov.dev01.apps.shastacloud.com",
+            "port": 16005
+        }
+    },
+    "STG": {
+        "owsec": {
+            "host": "sec-stg.shastacloud.com",
+            "port": 16001
+        },
+        "owgw": {
+            "host": "owgw.shastacloud.com",
+            "port": 16002
+        },
+        "owprov": {
+            "host": "prov-stg.shastacloud.com",
+            "port": 16005
+        }
+    },
+    "PROD": {
+        "owsec": {
+            "host": "sec-controller.shasta.cloud",
+            "port": 16001
+        },
+        "owgw": {
+            "host": "gw-controller.shasta.cloud",
+            "port": 16002
+        },
+        "owprov": {
+            "host": "prov-controller.shasta.cloud",
+            "port": 16005
+        }
+    },
+    "DEV": {
+        "owsec": {
+            "host": "sec-dev.shastacloud.com",
+            "port": 16001
+        },
+        "owgw": {
+            "host": "gw-dev.shastacloud.com",
+            "port": 16002
+        },
+        "owprov": {
+            "host": "prov-dev.shastacloud.com",
+            "port": 16005
+        }
+
+    }
+}

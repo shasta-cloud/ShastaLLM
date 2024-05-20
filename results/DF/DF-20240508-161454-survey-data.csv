@@ -1,0 +1,130 @@
+mac,name,org,venue,model,firmware,band,on-chan,channel,noise_floor,active_ms,busy_ms,busy_self_ms,busy_tx_ms,last_on_chan_secs_go,rrm_airtime_pct,agg_15m_active_ms,agg_15m_busy_ms,agg_15m_busy_self_ms,agg_15m_busy_tx_ms,agg_15m_num_samples
+04b6be13a188,SR-AP-01-Mstr,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,False,36,-110,15,1,0,0,-1,15.3349,15.0371,2.57127,0,0,180
+04b6be13a188,SR-AP-01-Mstr,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,149,-109,12518,594,31,84,-1,5,12466.6,581.703,32.3968,85.9521,180
+04b6be13a188,SR-AP-01-Mstr,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-100,18,13,0,0,-1,74.4796,16.9976,12.0759,0,0,180
+04b6be13a188,SR-AP-01-Mstr,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-98,12898,3929,6,81,-1,29,13088.9,3590.45,6.99287,94.8867,180
+04b6be13a188,SR-AP-01-Mstr,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-100,15,8,0,0,-1,60.7463,17.1309,10.04,0,0,180
+14448f1fbe16,HQ-EAP102,Intello Labs,VXLanLab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,36,-106,16,4,0,0,-1,29.9765,16.216,4.59047,0,0,180
+14448f1fbe16,HQ-EAP102,Intello Labs,VXLanLab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,44,-106,14,4,0,0,-1,28.705,15.6214,4.1413,0,0,180
+14448f1fbe16,HQ-EAP102,Intello Labs,VXLanLab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,True,149,-105,7077,476,0,70,-1,6,7081.31,481.805,0.520123,67.6331,180
+14448f1fbe16,HQ-EAP102,Intello Labs,VXLanLab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,157,-105,15,3,0,0,-1,24.2699,15.8921,3.82777,0,0,180
+14448f1fbe16,HQ-EAP102,Intello Labs,VXLanLab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,True,1,-103,7207,2966,4,349,-1,27.9887,7120.2,2264.03,3.73802,334.671,180
+14448f1fbe16,HQ-EAP102,Intello Labs,VXLanLab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,6,-102,16,5,0,0,-1,34.703,16.738,6.91836,1e-06,0.00015,180
+14448f1fbe16,HQ-EAP102,Intello Labs,VXLanLab,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,11,-102,18,6,0,0,-1,37.2614,17.1348,7.03802,0,0,180
+14448f1fbe2a,Dandy Back Porch,Shasta NorthEast,Stable,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,36,-109,6998,1184,0,59,-1,,6998,1184,0,59,180
+14448f1fbe2a,Dandy Back Porch,Shasta NorthEast,Stable,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,52,-108,12,5,0,0,-1,,12.0089,5.99911,0,0,180
+14448f1fbe2a,Dandy Back Porch,Shasta NorthEast,Stable,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,100,-108,13,4,0,0,-1,,13.0089,4.00089,0,0,180
+14448f1fbe2a,Dandy Back Porch,Shasta NorthEast,Stable,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,True,132,-108,7039,125,0,60,-1,1,7066.46,126.29,0,60.8873,180
+14448f1fbe2a,Dandy Back Porch,Shasta NorthEast,Stable,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,149,-106,19,2,0,0,-1,,19.9911,2.9991,0,0,180
+14448f1fbe2a,Dandy Back Porch,Shasta NorthEast,Stable,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,True,1,-102,6998,1301,433,459,-1,22,7056.84,1323.81,438.795,464.651,180
+14448f1fbe2a,Dandy Back Porch,Shasta NorthEast,Stable,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,6,-102,17,1,0,0,-1,11.9599,17.3654,1.88621,0,0,180
+14448f1fbe2a,Dandy Back Porch,Shasta NorthEast,Stable,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,11,-102,16,5,0,0,-1,33.307,16.5694,5.0397,0,0,180
+14448f1fbe3a,DC-AP-01-e102,Ducky's Legal Services,Ducky's Canada,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-108,7031,307,0,8,-1,5,7066.53,326.401,0,8.6477,180
+14448f1fbe3a,DC-AP-01-e102,Ducky's Legal Services,Ducky's Canada,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-106,17,6,0,0,-1,35.9834,16.0061,5.85998,0,0,180
+14448f1fbe3a,DC-AP-01-e102,Ducky's Legal Services,Ducky's Canada,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-99,18,4,0,0,-1,25.1173,17.2429,2.86895,0,0,180
+14448f1fbe3a,DC-AP-01-e102,Ducky's Legal Services,Ducky's Canada,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-99,6999,775,0,14,-1,12,7051.46,771.219,0,13.6486,180
+14448f1fbe3a,DC-AP-01-e102,Ducky's Legal Services,Ducky's Canada,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-99,16,3,0,0,-1,27.0747,17.3668,3.10746,0,0,180
+14448f1fbe4a,Duffy Barn AP,Duffy LLC,Duffy Barn,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-108,7140,86,0,15,-1,1,7065.87,87.8999,0,15.8378,180
+14448f1fbe4a,Duffy Barn AP,Duffy LLC,Duffy Barn,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-107,15,5,0,0,-1,36.9632,15.4734,5.28886,0,0,180
+14448f1fbe4a,Duffy Barn AP,Duffy LLC,Duffy Barn,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-105,17,2,0,0,-1,37.0993,17.141,1.72577,0,0,180
+14448f1fbe4a,Duffy Barn AP,Duffy LLC,Duffy Barn,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-104,7152,395,0,274,-1,5,7062.66,386.371,0.584829,272.355,180
+14448f1fbe4e,Tuttle Basement EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,36,-109,16,2,0,0,-1,13.8782,14.8825,1.7264,0,0,180
+14448f1fbe4e,Tuttle Basement EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,52,-107,16,3,0,0,-1,36.6053,15.1581,4.08168,0,0,180
+14448f1fbe4e,Tuttle Basement EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,116,-108,17,3,0,0,-1,22.5365,16.1274,2.95506,0,0,180
+14448f1fbe4e,Tuttle Basement EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,True,149,-106,6998,792,598,183,-1,9,7048.47,755.413,554.26,188.169,180
+14448f1fbe4e,Tuttle Basement EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,1,-104,16,1,0,0,-1,19.2901,17.0037,2.01555,0,0,180
+14448f1fbe4e,Tuttle Basement EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,True,11,-112,7011,203,8,161,-1,3,7062.71,199.662,2.65375,165.355,180
+14448f1fbe76,AtticAP,Tim,TRaceHome,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-109,7116,273,41,98,-1,6,7065.21,286.852,43.3503,104.268,180
+14448f1fbe76,AtticAP,Tim,TRaceHome,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,5g,False,149,-106,15,1,0,0,-1,11.1858,15.724,1.42885,0,0,180
+14448f1fbe76,AtticAP,Tim,TRaceHome,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-106,16,3,0,0,-1,19.4138,17.2958,3.183,0,0,180
+14448f1fbe76,AtticAP,Tim,TRaceHome,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-105,7008,845,444,303,-1,16,7056.43,865.674,436.859,302.873,180
+14448f1fbf2a,Tuttle Living Room EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,True,36,-109,7202,892,488,289,-1,9,7103.92,822.308,430.363,270.09,180
+14448f1fbf2a,Tuttle Living Room EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,100,-108,16,7,0,0,-1,46.2106,16.5567,7.60349,0,0,180
+14448f1fbf2a,Tuttle Living Room EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,116,-107,17,1,0,0,-1,13.0502,15.8945,1.30403,0,0,180
+14448f1fbf2a,Tuttle Living Room EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,149,-107,16,4,0,0,-1,25.0861,15.9601,4.15718,0,0,180
+14448f1fbf2a,Tuttle Living Room EAP 102,Shasta NorthEast,Shasta HQ,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,True,1,-105,7193,570,0,167,-1,8,7055.97,608.438,1.14841,167.013,180
+14448f1fbf8e,Dandy 2nd floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,True,36,-110,7009,613,412,192,-1,9,7082.71,603.485,405.265,191.122,180
+14448f1fbf8e,Dandy 2nd floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,100,-107,13,6,0,0,-1,45.9558,15.2056,5.88181,0,0,180
+14448f1fbf8e,Dandy 2nd floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,116,-108,14,3,0,0,-1,37.4947,15.3617,3.90476,0,0,180
+14448f1fbf8e,Dandy 2nd floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,149,-107,14,4,0,0,-1,31.7812,15.4166,4.96276,0,0,180
+14448f1fbf8e,Dandy 2nd floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,1,-104,15,2,0,0,-1,18.8001,17.0824,2.2779,0,0,180
+14448f1fbf8e,Dandy 2nd floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,True,6,-104,7078,628,0,296,-1,8,7058.78,624.021,0.056686,293.325,180
+14448f1fbf8e,Dandy 2nd floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,11,-103,17,4,0,0,-1,28.7919,17.1478,4.06841,0,0,180
+14448fd58129,Dandy Main Floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,36,-108,16,4,0,0,-1,23.9196,15.4479,3.86299,0,0,180
+14448fd58129,Dandy Main Floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,52,-108,14,2,0,0,-1,32.0703,15.474,3.09741,0,0,180
+14448fd58129,Dandy Main Floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,116,-108,15,6,0,0,-1,38.8974,15.296,3.92704,0,0,180
+14448fd58129,Dandy Main Floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,True,149,-106,7000,394,222,119,-1,5,7063.81,390.505,227.123,121.787,180
+14448fd58129,Dandy Main Floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,1,-102,16,2,0,0,-1,15.5187,17.008,1.72657,0,0,180
+14448fd58129,Dandy Main Floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,True,6,-103,7109,593,4,296,-1,9,7059.64,595.287,4.37585,297.675,180
+14448fd58129,Dandy Main Floor,Shasta NorthEast,Camp,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,11,-102,16,4,0,0,-1,30.7107,17.328,4.21038,0,0,180
+24fe9a0f5ae5,BasementAP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-103,11,1,0,0,-1,17.2345,10.8459,1.39828,0,0,180
+24fe9a0f5ae5,BasementAP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-104,7110,1439,264,399,-1,18,7130.08,1482.83,317.797,411.251,180
+24fe9a0f5ae5,BasementAP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,5g,True,44,-108,7209,167,28,130,-1,3,7087.55,144.459,22.2346,107.32,180
+24fe9a0f5b55,FamilyRmAP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-104,7226,1744,376,502,-1,20,7157.46,1676.3,323.649,495.123,180
+24fe9a0f5b55,FamilyRmAP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-103,8,1,0,0,-1,38.7223,8.87299,1.33213,0,0,180
+24fe9a0f5b55,FamilyRmAP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-105,7,2,0,0,-1,34.0011,8.58889,1.76555,0,0,180
+24fe9a0f5b55,FamilyRmAP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,5g,True,157,-108,7014,767,251,526,-1,14,7143.33,1118.09,1174.75,794.945,180
+24fe9a0f5c19,Garage AP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-105,6996,1783,1,328,-1,25,6637.87,1723,2.86047,319.79,180
+24fe9a0f5c19,Garage AP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-105,7,1,0,0,-1,31.9469,498.403,177.32,0.472421,31.2015,180
+24fe9a0f5c19,Garage AP,Tim,TRaceHome,cybertan_eww631-a1,Shasta-AP-NOS Rel 2.2 build 22,5g,True,149,-108,7205,834,328,557,-1,10,7198.12,799.746,301.477,530.38,180
+24fe9a0f6141,CyberTANWallDemo,Intello Labs,APtestingLab,cybertan_eww631-b1,Shasta-AP-NOS Rel 2.2 build 21,2g,False,6,-100,12,1,0,0,-1,19.0103,10.326,1.27857,0,0,180
+24fe9a0f6141,CyberTANWallDemo,Intello Labs,APtestingLab,cybertan_eww631-b1,Shasta-AP-NOS Rel 2.2 build 21,2g,True,11,-100,7234,1014,2,284,-1,15,7133.44,1017.31,2.15955,280.783,180
+24fe9a0f6141,CyberTANWallDemo,Intello Labs,APtestingLab,cybertan_eww631-b1,Shasta-AP-NOS Rel 2.2 build 21,5g,True,36,-108,7326,393,0,64,-1,5,7126.12,379.711,0.263161,62.0678,180
+24fe9a0f6141,CyberTANWallDemo,Intello Labs,APtestingLab,cybertan_eww631-b1,Shasta-AP-NOS Rel 2.2 build 21,5g,False,149,-107,14,1,0,0,-1,12.5771,11.6191,0.606956,0,0,180
+903cb36c40bd,AP-40BD,Truminds-BUS,Default Venue,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 17,5g,False,36,-105,17,0,0,0,-1,12.4461,17.3922,1.58921,0,0,180
+903cb36c40bd,AP-40BD,Truminds-BUS,Default Venue,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 17,5g,False,44,-105,16,0,0,0,-1,8.37532,17.5983,1.00048,0,0,180
+903cb36c40bd,AP-40BD,Truminds-BUS,Default Venue,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 17,5g,False,149,-103,18,7,0,0,-1,40.5086,17.5583,4.74988,0,0,180
+903cb36c40bd,AP-40BD,Truminds-BUS,Default Venue,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 17,5g,True,157,-104,7064,288,0,32,-1,5,7034.87,367.898,0.704313,33.7572,180
+903cb36c40bd,AP-40BD,Truminds-BUS,Default Venue,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 17,2g,False,1,-61,16,9,0,0,-1,57.0636,17.0015,11.0087,0,0,180
+903cb36c40bd,AP-40BD,Truminds-BUS,Default Venue,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 17,2g,True,6,-99,6997,3075,3,188,-1,47,7014.07,3130.59,3.4002,191.682,180
+903cb36c40bd,AP-40BD,Truminds-BUS,Default Venue,edgecore_eap101,Shasta-AP-NOS Rel 2.1 build 17,2g,False,11,-95,16,12,0,0,-1,74.6093,16.9283,11.7661,0,0,180
+903cb36c44f5,eap101,Erez home,Erez SF,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 21,5g,True,52,-104,7039,1108,25,310,-1,11,7066.91,944.791,11.5221,142.275,180
+903cb36c44f5,eap101,Erez home,Erez SF,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 21,2g,True,1,-95,7150,3082,1,151,-1,38,7070.5,2982.07,3.16705,138.871,180
+903cb36c44f5,eap101,Erez home,Erez SF,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 21,2g,False,6,-96,16,9,0,0,-1,61.3709,17.0016,9.62447,0,0,180
+903cb36c44f5,eap101,Erez home,Erez SF,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 21,2g,False,11,-97,17,8,0,0,-1,48.0847,16.8791,8.56924,0,0,180
+903cb3bb1c5b,SR-AP-03-Dwn,Ducky's Legal Services,Ducky's San Ramon,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-107,7028,128,0,35,-1,2,7036.81,123.916,0.065481,34.8841,180
+903cb3bb1c5b,SR-AP-03-Dwn,Ducky's Legal Services,Ducky's San Ramon,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-94,17,6,0,0,-1,35.7553,17.4458,3.91133,0,0,180
+903cb3bb1c5b,SR-AP-03-Dwn,Ducky's Legal Services,Ducky's San Ramon,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-94,7000,1174,0,28,-1,16,7048.48,1169.06,0.928064,30.136,180
+903cb3bb1c5b,SR-AP-03-Dwn,Ducky's Legal Services,Ducky's San Ramon,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-96,17,4,0,0,-1,30.0926,17.9113,4.02664,5.1e-05,0.001279,180
+903cb3bb1da5,SR-AP-04-Gst,Ducky's Legal Services,Ducky's San Ramon,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,5g,True,149,-105,7001,320,58,95,-1,5,7047.57,284.727,53.0686,70.5651,180
+903cb3bb1da5,SR-AP-04-Gst,Ducky's Legal Services,Ducky's San Ramon,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-97,16,5,0,0,-1,34.8142,16.8282,5.18619,0,0,180
+903cb3bb1da5,SR-AP-04-Gst,Ducky's Legal Services,Ducky's San Ramon,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-96,18,13,0,0,-1,69.9826,17.2798,10.634,0,0,180
+903cb3bb1da5,SR-AP-04-Gst,Ducky's Legal Services,Ducky's San Ramon,edgecore_eap101,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-99,7023,1835,6,82,-1,26,7067.77,1846.23,6.52357,76.6512,180
+cccf83ca4b68,Spoonery Outdoor AP,Shasta NorthEast,Spoonery,cig_wf660a,Shasta-AP-NOS Rel 2.2 build 21,5g,True,132,-105,7080,122,0,61,-1,1,7058.48,121.964,0,61.0605,180
+cccf83ca4b68,Spoonery Outdoor AP,Shasta NorthEast,Spoonery,cig_wf660a,Shasta-AP-NOS Rel 2.2 build 21,2g,False,1,-111,11,2,0,0,-1,24.1217,12.8113,2.213,0,0,180
+cccf83ca4b68,Spoonery Outdoor AP,Shasta NorthEast,Spoonery,cig_wf660a,Shasta-AP-NOS Rel 2.2 build 21,2g,False,6,-113,11,1,0,0,-1,22.1697,12.9398,2.12151,0,0,180
+cccf83ca4b68,Spoonery Outdoor AP,Shasta NorthEast,Spoonery,cig_wf660a,Shasta-AP-NOS Rel 2.2 build 21,2g,True,11,-113,6998,2937,1246,1441,-1,42,7045.88,3620.5,1609.57,1686.57,180
+cccf83ca4c88,DuffyDrivewayAP,Duffy LLC,Duffy Barn,cig_wf660a,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-105,7083,31,0,16,-1,0,7047.73,33.8295,0.000456,15.9512,180
+cccf83ca4c88,DuffyDrivewayAP,Duffy LLC,Duffy Barn,cig_wf660a,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-110,7181,949,0,280,-1,12,7098.6,949.508,0.751036,273.208,180
+cccf83ca4c88,DuffyDrivewayAP,Duffy LLC,Duffy Barn,cig_wf660a,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-110,14,1,0,0,-1,28.063,13.4755,1.31844,0,0,180
+cccf83eabd78,HomeLab-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,2g,False,1,-95,11,1,0,0,-1,17.6948,11.3704,2.10898,0,0,180
+cccf83eabd78,HomeLab-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,2g,True,6,-108,6998,1437,1,285,-1,21,7093.29,1495.93,1.86739,287.62,180
+cccf83eabd78,HomeLab-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,2g,False,11,-97,11,1,0,0,-1,18.563,10.8555,1.70029,0,0,180
+cccf83eabd78,HomeLab-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,5g,True,36,-106,7173,500,0,63,-1,4,7117.86,491.694,0.219662,63.552,180
+cccf83eabf88,HQ-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,2g,False,1,-98,10,4,0,0,-1,49.6242,9.74693,3.6075,0,6e-06,180
+cccf83eabf88,HQ-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,2g,False,6,-99,10,4,0,0,-1,37.8235,9.70873,3.32225,3.9e-05,0.01074,180
+cccf83eabf88,HQ-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,2g,True,11,-100,7367,2535,5,350,-1,29.8926,7163.83,2209.65,2.67754,313.608,180
+cccf83eabf88,HQ-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,5g,False,36,-104,11,2,0,0,-1,41.1793,12.5256,3.24502,0,0,180
+cccf83eabf88,HQ-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,5g,False,44,-105,12,3,0,0,-1,28.6132,12.0516,2.34783,0,0,180
+cccf83eabf88,HQ-WF186W,Intello Labs,VXLanLab,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 21,5g,True,149,-105,7316,341,0,30,-1,4,7189.91,370.26,0,30.1708,180
+cccf83eac450,BackyardAP,Tim,TRaceHome,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,True,1,-104,7121,1784,0,36,-1,19.6723,7112.07,1665.56,0.56462,39.7974,180
+cccf83eac450,BackyardAP,Tim,TRaceHome,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-105,9,3,0,0,-1,47.1591,16.1189,5.04819,0.000918,0.040358,180
+cccf83eac450,BackyardAP,Tim,TRaceHome,cig_wf186w,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-107,7216,644,1,71,-1,8,7100.4,733.072,3.33527,72.1585,180
+d4babaa15440,SR-AP-02-Liv,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,5g,True,36,-110,12284,191,3,55,-1,2,12441.9,207.363,4.3664,58.5394,180
+d4babaa15440,SR-AP-02-Liv,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-96,15,7,0,0,-1,51.4877,16.9554,9.38543,0,0,180
+d4babaa15440,SR-AP-02-Liv,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,True,6,-96,13274,3658,22,109,-1,27,13147.2,3595.8,20.8072,113.192,180
+d4babaa15440,SR-AP-02-Liv,Ducky's Legal Services,Ducky's San Ramon,cig_wf196,Shasta-AP-NOS Rel 2.2 build 22,2g,False,11,-96,16,7,0,0,-1,51.3782,16.4538,6.98614,0,0,180
+d4babaa155a0,newWF-196,Erez home,Erez SF,cig_wf196,Shasta-AP-NOS Rel 2.2 build 21,5g,True,116,-110,12473,152,8,137,-1,1,12438.7,155.896,9.12725,139.249,180
+d4babaa155a0,newWF-196,Erez home,Erez SF,cig_wf196,Shasta-AP-NOS Rel 2.2 build 21,2g,False,1,-107,16,10,0,0,-1,67.4575,16.8838,11.6105,0,0,180
+d4babaa155a0,newWF-196,Erez home,Erez SF,cig_wf196,Shasta-AP-NOS Rel 2.2 build 21,2g,True,6,-98,15377,4254,0,181,-1,26,15153.7,4086.74,43.2872,434.41,180
+d4babaa155a0,newWF-196,Erez home,Erez SF,cig_wf196,Shasta-AP-NOS Rel 2.2 build 21,2g,False,11,-98,17,10,0,0,-1,63.7912,16.9759,11.6338,0,0,180
+e001a6807be0,newEAP102,Erez home,Erez SF backhaul,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,False,36,-107,15,6,0,0,-1,43.0141,15.3534,6.47923,0,0,180
+e001a6807be0,newEAP102,Erez home,Erez SF backhaul,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,5g,True,149,-105,7088,538,25,47,-1,9,7081.67,931.553,41.4261,61.5092,180
+e001a6807be0,newEAP102,Erez home,Erez SF backhaul,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,1,-99,18,5,0,0,-1,26.4599,17.6774,5.59222,0,0,180
+e001a6807be0,newEAP102,Erez home,Erez SF backhaul,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,False,6,-99,16,6,0,0,-1,33.3284,16.8009,4.79243,0,0,180
+e001a6807be0,newEAP102,Erez home,Erez SF backhaul,edgecore_eap102,Shasta-AP-NOS Rel 2.2 build 21,2g,True,11,-100,7103,1485,1,86,-1,21,7052.63,1467.78,1.14785,83.4707,180
+e49d731c0e0a,TreehouseAP,Tim,TRaceHome,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,2g,False,1,-102,11,1,0,0,-1,15.6408,9.73005,1.64403,0,0,180
+e49d731c0e0a,TreehouseAP,Tim,TRaceHome,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,2g,False,6,-102,8,4,0,0,-1,51.9698,9.49492,4.6528,0,0,180
+e49d731c0e0a,TreehouseAP,Tim,TRaceHome,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,2g,True,11,-102,7160,1764,0,287,-1,20.997,7144.72,1736.54,1.11307,292.066,180
+e49d731c0e0a,TreehouseAP,Tim,TRaceHome,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,5g,False,36,-103,11,1,0,0,-1,14.462,13.0524,1.70847,0,0,180
+e49d731c0e0a,TreehouseAP,Tim,TRaceHome,edgecore_eap104,Shasta-AP-NOS Rel 2.2 build 22,5g,True,149,-102,7259,557,0,61,-1,6,7125.94,492.874,0.002406,60.2727,180

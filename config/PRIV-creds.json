@@ -1,0 +1,19 @@
+{
+    "_comment": "!!! Copy this to config/PRIV-creds.json and fill in your details.  DO NOT COMMIT INTO GIT !!!",
+    "DF": {
+        "userId": "efi@shasta.cloud",
+        "password": "58MDs0^@aEeh"
+    },
+    "STG": {
+        "userId": "efi@shasta.cloud",
+        "password": "Efidvir!11"
+    },
+    "PROD": {
+        "userId": "efi@shasta.cloud",
+        "password": "58MDs0^@aEeh"
+    },
+    "DEV": {
+        "userId": "efi@shasta.cloud",
+        "password": "EfidviratShasta!"
+      }
+}
